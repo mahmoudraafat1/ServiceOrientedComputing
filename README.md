@@ -4,9 +4,6 @@
   
 ![Web-Service-What-is-REST-API-And-How-Does-it-Work-1024x576](https://github.com/mahmoudraafat1/ServiceOrientedComputing/assets/81190585/f144c0a0-65d7-45d2-843c-4e2ac2614b55)
 
-
-
-
 </p>
 <h1 align="center">Project Description </h1>
 
