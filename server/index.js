@@ -3,6 +3,8 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const connection = require("./db");
+
+//REMOVE THE COMMENTS AFTER CONNECTING TO YOUR MONGO DB IN SEND THE URL IN THE ENV FILE
 //const userRoutes = require("./routes/users");
 //const authRoutes = require("./routes/auth");
 const express = require('express');
