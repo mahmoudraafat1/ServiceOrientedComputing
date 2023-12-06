@@ -5,7 +5,6 @@ const cors = require("cors");
 const connection = require("./db");
 //const userRoutes = require("./routes/users");
 //const authRoutes = require("./routes/auth");
-const propertyRoutes = require("./routes/property");
 const express = require('express');
 //const bodyParser = require('body-parser');
 const port = 8000;
