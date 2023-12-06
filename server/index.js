@@ -1,11 +1,17 @@
+require("dotenv").config();
+const express = require("express");
+const app = express();
+const cors = require("cors");
+const connection = require("./db");
+//const userRoutes = require("./routes/users");
+//const authRoutes = require("./routes/auth");
+const propertyRoutes = require("./routes/property");
 const express = require('express');
 //const bodyParser = require('body-parser');
-const app = express();
 const port = 8000;
 require('dotenv').config();
+
 //const connection = require("./db");
-//const usersRoutes = require("./routes/userController");
-//const ordersRoutes = require("./routes/orderController");
 
 
 //connection();
@@ -13,9 +19,8 @@ require('dotenv').config();
 
 app.use(express.json());
 
-
-//app.use('/users', usersRoutes);
-//app.use('/orders', ordersRoutes);
+//app.use("/api/users", userRoutes);
+//app.use("/api/auth", authRoutes);
 
 
 app.get('/', (req, res) => {
