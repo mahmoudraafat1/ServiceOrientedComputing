@@ -1,6 +1,3 @@
-
-//import { Navbar, Footer, Services, Transactions, Welcome, Client, Contact, About, Features } from './components';
-//import Chat from './components/ChatIcon';
 import {First} from './components';
 import {Login,Signup,Main,Error,PageLoader} from './components';
 import { useState, useEffect } from 'react';
