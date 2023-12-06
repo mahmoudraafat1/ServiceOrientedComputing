@@ -1,7 +1,7 @@
 
 //import { Navbar, Footer, Services, Transactions, Welcome, Client, Contact, About, Features } from './components';
 //import Chat from './components/ChatIcon';
-import {Start ,Contact,Footer,Navbar,About,Service} from '../components';
+import {Start ,Contact,Footer,Navbar,About,Service,Client} from '../components';
 
 
 const First = () => (
@@ -10,6 +10,7 @@ const First = () => (
    <Start/>
    <About/>
    <Service/>
+   <Client/>
    <Contact/>
    <Footer/>
   </div>

@@ -19,8 +19,8 @@ const Contact = () => {
       <div className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-lg mx-auto md:max-w-none md:grid md:grid-cols-2 md:gap-8">
           <div>
-            <h2 className="text-4xl font-bold text-yellow-300 mb-4">
-              Contact <span className="text-red-500">Us</span>
+            <h2 className="text-4xl font-bold text-white mb-4">
+              Contact <span className="text-yellow-300">Us</span>
             </h2>
             <p className="text-lg text-white mb-8">
               If you have any questions or would like to know more infomration, please

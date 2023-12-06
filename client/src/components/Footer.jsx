@@ -31,15 +31,9 @@ return (
             </a>
         </div>
     </div>
-        <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between">
+        <div className="mt-8 border-t border-black pt-8 flex flex-col md:flex-row justify-between">
           <div className="text-sm text-gray-400">
             <p>All rights reserved &copy; 2023</p>
-          </div>
-
-          <div className="text-sm text-gray-400">
-            <p>
-              Made with <span className="text-red-500 text-xl">&hearts;</span> by : Mostafa Hassan
-            </p>
           </div>
         </div>
       </div>

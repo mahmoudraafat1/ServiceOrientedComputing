@@ -5,7 +5,7 @@ export { default as Start } from "./Start";
 export { default as Footer } from "./Footer";
 //export { default as Footerr } from "./Footerr";
 export { default as Service } from "./Service";
-//export { default as Client } from "./Clients";
+export { default as Client } from "./Clients";
 export { default as Contact } from "./Contact";
 export { default as Login } from "./Login";
 export { default as Signup } from "./Signup";
