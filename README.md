@@ -13,16 +13,6 @@ The purpose of this project is to provide hands-on experience in working with Mi
 
 <hr>
 
-Project Phases:
-
-Phase 1 :
-
-
-
-Phase 2 :
-
-
-<hr>
 
 <h1 align="center">🚀 Folder Structure</h1>
 
