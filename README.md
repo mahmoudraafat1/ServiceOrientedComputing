@@ -21,6 +21,23 @@ The purpose of this project is to provide hands-on experience in working with Mi
 
 <h1 align="center">🚀 How to run the project</h1>
 
+1) for the front-end
+--------------------
+  1) cd client
+  2) npm install
+  3) npm run dev
+  
+2) for the backend-end
+--------------------
+  1) cd server
+  2) npm install
+  3) npm start
+     
+3) for the microservices
+--------------------
+  1) cd services
+  2) cd library-microservices
+  3) npm run dev:watch
 
 <hr>
 
