@@ -1,8 +1,20 @@
 export { default as Navbar } from "./Navbar";
+export { default as Navbarr } from "./Navbarr";
 export { default as About } from "./About";
 export { default as First } from "./First";
 export { default as Start } from "./Start";
 export { default as Footer } from "./Footer";
+export { default as Spinner } from "./Spinner";
+export { default as BackButton } from "./BackButton";
+//export { default as Appp } from "./Appp";
+
+export { default as CreateBooks } from "./CreateBooks";
+export { default as ShowBook } from "./ShowBook";
+export { default as EditBook } from "./EditBook";
+export { default as DeleteBook } from "./DeleteBook";
+export { default as Home } from "./Home";
+export { default as Books } from "./Books";
+
 //export { default as Footerr } from "./Footerr";
 export { default as Service } from "./Service";
 export { default as Client } from "./Clients";

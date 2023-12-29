@@ -1,5 +1,5 @@
 
-import Image from "../../images/food.jpg";
+import Image from "../../images/about.jpg";
 
 const AboutUs = () => {
   return (
@@ -23,11 +23,10 @@ const AboutUs = () => {
           About <span className="text-yellow-300">Us</span>
           </h2>        
           <p className="text-lg md:text-xl text-gray-400 mb-8">
-          Welcome to My Restaurant, where our mission is to provide exceptional dining experiences and delicious meals to satisfy our customers cravings.
+          Welcome to our Online Bookstore, where our mission is to provide exceptional reading experiences and a wide selection of books for purchase and online reading.
             <br/>
             <br/>
-            With years of expertise in the restaurant industry, our team of dedicated professionals has built a reputation for culinary excellence and outstanding service.
-          </p>
+            With years of expertise in the book industry, our team of dedicated professionals has built a reputation for literary excellence and outstanding service.          </p>
         </div>
       </div>
     </div>

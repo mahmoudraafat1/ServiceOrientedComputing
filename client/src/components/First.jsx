@@ -1,3 +1,6 @@
+
+//import { Navbar, Footer, Services, Transactions, Welcome, Client, Contact, About, Features } from './components';
+//import Chat from './components/ChatIcon';
 import {Start ,Contact,Footer,Navbar,About,Service,Client} from '../components';
 
 

@@ -25,7 +25,7 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	background-color: white;
+	background-color: rgb(182, 126, 4);
 	border-top-left-radius: 50px;
 	border-bottom-left-radius: 50px;
 }
@@ -71,8 +71,8 @@
 	justify-content: center;
 	background-color:#0f0e13;
 	background-repeat: no-repeat;
-	background-size: fill;
-	background-image: url(../../images/food.jpg);
+	background-size: cover;
+	background-image: url(../../images/book.jpg);
 	border-top-right-radius: 50px;
 	border-bottom-right-radius: 50px;
 	
@@ -80,7 +80,7 @@
 
 .right h1 {
 	margin-top: 0;
-	color: white;
+	color: rgb(251, 255, 0);
 	font-size: 40px;
 	align-self: center;
 }
@@ -99,7 +99,7 @@
 }
 
 .green_btn {
-	background-color:rgb(163, 107, 4);
+	background-color:rgb(0, 0, 0);
 	background-image: 
 	  radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
 	  radial-gradient(at 50% 0%, rgb(0, 0, 0) 0, transparent 50%), 

@@ -14,8 +14,8 @@ const Start = () => {
   return (
     <div name="start" className='hero-container'>
       
-      <h1>My Restaurant</h1>
-      <p className="text-lg md:text-xl lg:text-2xl">Explore the best meals with amazing services as you want</p>
+      <h1>My BookStore</h1>
+      <p className="text-lg md:text-xl lg:text-2xl">Explore the best books with amazing services as you want</p>
       <div className="flex flex-col md:flex-row items-center">
         <button
           type="button"

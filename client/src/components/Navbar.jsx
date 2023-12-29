@@ -36,7 +36,7 @@ const Navbarr = () => {
         className="transition duration-200 transform hover:scale-110"
       >
         <h2 className="text-white mb-4 my-5 cursor-pointer">
-             My <span className="text-yellow-300">Restaurant</span>
+             My <span className="text-yellow-300">BookStore</span>
         </h2>
       </Link>
     </div>
@@ -73,7 +73,7 @@ const Navbarr = () => {
         <div className="h-full flex flex-col justify-center items-center">
           <div className="flex flex-col items-center mb-8">
            
-            <span > My <span className="text-red-500">Restaurant</span></span>
+            <span > My <span className="text-red-500">BookStore</span></span>
           </div>
           <ul className="text-white text-1xl">
             <li className="my-4" style={{ transition: `opacity ${menuTransitionDuration}ms ease-in-out` }}>
