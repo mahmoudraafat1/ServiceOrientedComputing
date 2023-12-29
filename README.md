@@ -36,8 +36,8 @@ For the backend-end
 For the microservices
 
   1) cd services
-  2) cd library-microservices
-  3) npm run dev:watch
+  2) cd library-microservice
+  3) npm run start:dev
 --------------------
      
 <hr>
