@@ -1,5 +1,5 @@
 <h1 align="center">Service-Oriented Computing Project</h1>
-<p align="center">Project title : Restaurant Menu and orders with REST API </p>
+<p align="center">Project title : Bookstore web-app with REST API </p>
 <p align="center">
   
 ![Web-Service-What-is-REST-API-And-How-Does-it-Work-1024x576](https://github.com/mahmoudraafat1/ServiceOrientedComputing/assets/81190585/f144c0a0-65d7-45d2-843c-4e2ac2614b55)
@@ -7,13 +7,9 @@
 </p>
 <h1 align="center">Project Description </h1>
 
-Here is a GitHub repository description for a service-oriented computing project using MERN Stack and RESTful API:
+The Bookstore Web App is a comprehensive project developed for the Service-Oriented Computing course. The primary goal of this project is to create a functional web application that demonstrates the practical implementation of Microservices, along with various other technologies. The application includes a user-friendly interface with features like authentication, CRUD operations, and RESTful APIs.
 
-This repository contains a service-oriented computing project that implements a distributed system for managing products using MERN Stack and RESTful API.
-
-The system consists of a number of microservices, each of which is responsible for a specific task, such as managing product data, processing payments, and generating reports. The microservices communicate with each other using a message queue.
-
-The system is highly scalable and fault-tolerant. If one microservice fails, the other microservices can continue to operate. The system is also very flexible and can be easily extended to add new features or support new products.
+The purpose of this project is to provide hands-on experience in working with Microservices and related technologies in a real-world scenario. By building a Bookstore Web App, students can enhance their understanding of database concepts, web development, and API integration.
 
 <hr>
 
