@@ -1,0 +1,26 @@
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] AppController {/}: +55ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/, GET} route +4ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] PaymentController {/payment}: +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] BookController {/books}: +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/books, GET} route +0ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/books/:id, GET} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/books, POST} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/books/:id, PUT} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/books/:id, DELETE} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] AuthController {/auth}: +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/signup, POST} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/login, GET} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/users, GET} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/users/:id, GET} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/users/:id, PUT} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/auth/users/:id, DELETE} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] NovelController {/novels}: +0ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/novels, GET} route +2ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/novels/:id, GET} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/novels, POST} route +0ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/novels/:id, PUT} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RouterExplorer] Mapped {/novels/:id, DELETE} route +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] CartController {/}: +0ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] OrderController {/}: +3ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] ReviewController {/review}: +1ms
+[Nest] 10600  - 12/30/2023, 2:27:06 PM     LOG [RoutesResolver] WishlistController {/wishlist}: +1ms
