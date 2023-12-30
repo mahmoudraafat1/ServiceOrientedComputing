@@ -37,7 +37,8 @@ For the microservices
 
   1) cd services
   2) cd library-microservice
-  3) npm run start:dev
+  3) npm install
+  4) npm run start:dev
 --------------------
      
 <hr>
