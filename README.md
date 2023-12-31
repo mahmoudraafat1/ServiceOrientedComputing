@@ -42,10 +42,56 @@ For the microservices
 --------------------
      
 <hr>
+<h1 align="center">🚀 Micro-services in the project</h1>
+
+
+Auth✅ (Mostafa Hassan)
+
+Users✅ (Mostafa Hassan)
+
+Books✅ (Mostafa Hassan)
+
+Novels✅ (Mostafa Hassan)
+
+Cart✅ (Mahmoud Raafat)
+
+Order⏺️ (Mina Nassef)
+
+Review ⏺️ (Mostafa Ameen)
+
+Payment ⏺️ (Rana Haytham)
+
+<hr>
 
 <h1 align="center">🚀 Features</h1>
 
+The Bookstore Web App offers the following functionality and features:
 
+• User Management: User signup and login with authentication.
+
+• Book Management: Displaying a list of books.
+
+  o Viewing detailed information about a specific book.
+  
+  o Creating a new book.
+  
+  o Updating existing book.
+  
+  o Deleting a book.
+  
+• Novels Management: Displaying a list of novels.
+
+  o Viewing detailed information about a specific novel.
+  
+  o Creating a new novel.
+  
+  o Updating existing novel.
+  
+  o Deleting a novel.
+  
+• API Integration: Integration of RESTful API endpoints for CRUD operations.
+
+  o Postman used for testing and documentation of APIs.
 
 <hr>
 
