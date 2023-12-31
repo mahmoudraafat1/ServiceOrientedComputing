@@ -16,6 +16,21 @@ The purpose of this project is to provide hands-on experience in working with Mi
 
 <h1 align="center">🚀 Folder Structure</h1>
 
+```
+
+└── client/
+  └── front-end side (ReactJs and TailwindCSS)
+└── documentation/
+  └── Project documentation
+└── postman/
+  └── Postman URLS and ALL End points
+└── server/
+  └── server-side (Express , Nodejs and MongoDB)
+└── services/
+  └── Microservices side (NestJs and APIs)
+
+   
+```
 
 <hr>
 
