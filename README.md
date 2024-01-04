@@ -66,15 +66,15 @@ Users✅ (Mostafa Hassan)
 
 Books✅ (Mostafa Hassan)
 
-Novels✅ (Mostafa Hassan)
+Payment✅ (Mostafa Hassan)
 
 Cart✅ (Mahmoud Raafat)
 
-Order⏺️ (Mina Nassef)
+Order✅ (Mina Nassef)
 
 Review✅ (Mostafa Ameen)
 
-Payment ⏺️ (Rana Haytham)
+Novels✅ (Rana Haytham)
 
 <hr>
 
