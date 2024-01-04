@@ -1,0 +1,36 @@
+[
+    {
+        "_id": "65971ce386c32e0752f9b5c7",
+        "userId": "1",
+        "bookIds": [
+            "The Stranger",
+            "Animal Farm"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65971d0886c32e0752f9b5c9",
+        "userId": "2",
+        "bookIds": [
+            "Sula"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65971d2686c32e0752f9b5cb",
+        "userId": "3",
+        "bookIds": [
+            "Animal Farm",
+            "Home"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65971d4386c32e0752f9b5cd",
+        "userId": "4",
+        "bookIds": [
+            "The Little Prince"
+        ],
+        "__v": 0
+    }
+]
