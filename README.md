@@ -103,7 +103,43 @@ The Bookstore Web App offers the following functionality and features:
   o Updating existing novel.
   
   o Deleting a novel.
+
+•	Cart Management: Displaying a list of carts. 
+
+  o	Viewing detailed information about a specific a cart. 
   
+  o	Creating a new cart. 
+  
+  o	Updating existing cart. 
+  
+  o	Deleting a cart. 
+  
+•	Review Management: Displaying a list of reviews. 
+
+  o	Viewing detailed information about a specific review. 
+  
+  o	Creating a new review. 
+  
+  o	Updating existing review. 
+  
+  o	Deleting a review. 
+  
+•	Payment Management: Displaying a list of payments.
+
+  o	Viewing detailed information about a specific review. 
+  
+  o	Creating a new review. 
+  
+•	Order Management: Displaying a list of orders. 
+
+  o	Viewing detailed information about a specific order. 
+  
+  o	Creating a new order. 
+  
+  o	Updating existing order. 
+  
+  o	Deleting a order. 
+
 • API Integration: Integration of RESTful API endpoints for CRUD operations.
 
   o Postman used for testing and documentation of APIs.
