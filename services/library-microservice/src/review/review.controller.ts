@@ -14,9 +14,9 @@ import { Review } from './review.interface';
 
 @Controller('reviews')
 export class ReviewController {
-  constructor(private readonly reviewService: ReviewService) {}
+  constructor(private readonly reviewService: ReviewService) { }
 
-  @Post('/add')
+  @Post()
   async create(@Body() createReviewDto: CreateReviewDto): Promise<Review> {
     try {
       return await this.reviewService.create(createReviewDto);
@@ -25,7 +25,7 @@ export class ReviewController {
     }
   }
 
-  @Get('/:bookId')
+  @Get(':id')
   async findByBookId(@Param('bookId') bookId: string): Promise<Review[]> {
     try {
       return await this.reviewService.findByBookId(bookId);
