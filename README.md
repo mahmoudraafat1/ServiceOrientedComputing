@@ -72,7 +72,7 @@ Cart✅ (Mahmoud Raafat)
 
 Order⏺️ (Mina Nassef)
 
-Review ⏺️ (Mostafa Ameen)
+Review✅ (Mostafa Ameen)
 
 Payment ⏺️ (Rana Haytham)
 
