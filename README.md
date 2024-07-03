@@ -60,21 +60,7 @@ For the microservices
 <h1 align="center">🚀 Micro-services in the project</h1>
 
 
-Auth✅ (Mostafa Hassan)
 
-Users✅ (Mostafa Hassan)
-
-Books✅ (Mostafa Hassan)
-
-Payment✅ (Mostafa Hassan)
-
-Cart✅ (Mahmoud Raafat)
-
-Order✅ (Mina Nassef)
-
-Review✅ (Mostafa Ameen)
-
-Novels✅ (Rana Haytham)
 
 <hr>
 
